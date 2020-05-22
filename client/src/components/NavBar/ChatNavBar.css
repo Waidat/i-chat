@@ -1,0 +1,14 @@
+.chat-navBar{
+    height: 100vh;
+    width: 230px;
+    background: #1D1F26;
+}
+
+.chat-nav{
+    padding-top: 5rem;
+
+}
+
+.chat-color{
+    color: rgba(255, 255, 255, 0.68);
+}

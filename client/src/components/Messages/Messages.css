@@ -1,0 +1,14 @@
+.chat-messages{
+    height: 87vh;
+    overflow-y: scroll;
+}
+
+.messages{
+    padding: 5% 0;
+    overflow: auto;
+    flex: auto;
+}
+
+.chat-messages p{
+    margin-left: 25px;
+}

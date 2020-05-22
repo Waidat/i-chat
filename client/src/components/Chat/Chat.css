@@ -1,0 +1,21 @@
+.i-chat{
+  display: flex;
+  flex-shrink: 0;
+  margin-top: 16px;
+  padding: 24px;
+
+}
+
+.i-chat form{
+    display: flex;
+    flex-grow: 1;
+    margin-right: 16px;
+}
+
+.i-chat input{
+    border: 5px solid #eeeeee;
+    width: 100%;
+    padding: 12px;
+    margin: 0 16px 0 0;
+    flex-grow: 1;
+}
